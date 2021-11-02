@@ -1,0 +1,26 @@
+{
+  "name": "openai_wrapper",
+  "version": "1.0.0",
+  "description": "an api client for openai beta",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanshit-sagar/OpenAI_Wrapper.git"
+  },
+  "author": "Sanshit Sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanshit-sagar/OpenAI_Wrapper/issues"
+  },
+  "homepage": "https://github.com/Sanshit-sagar/OpenAI_Wrapper#readme",
+  "dependencies": {
+    "fastify": "^3.22.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  }
+}

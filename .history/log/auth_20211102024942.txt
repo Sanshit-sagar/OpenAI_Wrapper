@@ -1,0 +1,4 @@
+{"level":30,"time":1635846440131,"pid":22901,"hostname":"Sanshits-MacBook-Air.local","msg":"Server listening at https://127.0.0.1:8080"}
+{"level":30,"time":1635846560984,"pid":22935,"hostname":"Sanshits-MacBook-Air.local","reqId":"req-1","req":{"method":"GET","url":"/ping","headers":{"host":"localhost:8080","user-agent":"curl/7.64.1","accept":"*/*"},"hostname":"localhost:8080","remoteAddress":"127.0.0.1","remotePort":53106},"msg":"incoming request"}
+{"level":30,"time":1635846560986,"pid":22935,"hostname":"Sanshits-MacBook-Air.local","reqId":"req-1","msg":"pingpong for [object Object]"}
+{"level":30,"time":1635846560996,"pid":22935,"hostname":"Sanshits-MacBook-Air.local","reqId":"req-1","res":{"statusCode":200},"responseTime":10.435828000307083,"msg":"request completed"}
